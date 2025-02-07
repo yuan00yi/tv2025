@@ -1,0 +1,234 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.doube.eu.org/epg.xml"
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://json.doube.eu.org/logo/CCTV1.png" group-title="央视频道",CCTV1 综合
+http://192.168.0.66:50001/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://json.doube.eu.org/logo/CCTV2.png" group-title="央视频道",CCTV2 财经
+http://192.168.0.66:50001/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://json.doube.eu.org/logo/CCTV3.png" group-title="央视频道",CCTV3 综艺
+http://192.168.0.66:50001/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://json.doube.eu.org/logo/CCTV4.png" group-title="央视频道",CCTV4 中文国际
+http://192.168.0.66:50001/1000000002000031664/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://json.doube.eu.org/logo/CCTV5.png" group-title="央视频道",CCTV5 体育
+http://192.168.0.66:50001/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://json.doube.eu.org/logo/CCTV5+.png" group-title="央视频道",CCTV5+ 体育赛事
+http://192.168.0.66:50001/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://json.doube.eu.org/logo/CCTV6.png" group-title="央视频道",CCTV6 电影
+http://192.168.0.66:50001/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://json.doube.eu.org/logo/CCTV7.png" group-title="央视频道",CCTV7 国防军事
+http://192.168.0.66:50001/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://json.doube.eu.org/logo/CCTV8.png" group-title="央视频道",CCTV8 电视剧
+http://192.168.0.66:50001/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://json.doube.eu.org/logo/CCTV9.png" group-title="央视频道",CCTV9 记录
+http://192.168.0.66:50001/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://json.doube.eu.org/logo/CCTV10.png" group-title="央视频道",CCTV10 科教
+http://192.168.0.66:50001/1000000005000265010/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://json.doube.eu.org/logo/CCTV11.png" group-title="央视频道",CCTV11 戏曲
+http://192.168.0.66:50001/1000000005000265011/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://json.doube.eu.org/logo/CCTV12.png" group-title="央视频道",CCTV12 社会与法
+http://192.168.0.66:50001/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://json.doube.eu.org/logo/CCTV13.png" group-title="央视频道",CCTV13 新闻
+http://192.168.0.66:50001/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://json.doube.eu.org/logo/CCTV14.png" group-title="央视频道",CCTV14 少儿
+http://192.168.0.66:50001/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://json.doube.eu.org/logo/CCTV15.png" group-title="央视频道",CCTV15 音乐
+http://192.168.0.66:50001/1000000002000008163/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://json.doube.eu.org/logo/CCTV16.png" group-title="央视频道",CCTV16 奥林匹克
+http://192.168.0.66:50001/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://json.doube.eu.org/logo/CCTV17.png" group-title="央视频道",CCTV17 农业农村
+http://192.168.0.66:50001/1000000005000056836/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://json.doube.eu.org/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://192.168.0.66:50001/1000000001000009806/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="地方频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="地方频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="地方频道",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="地方频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang4.png" group-title="地方频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="地方频道",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="地方频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.com/tv/之江记录.png" group-title="地方频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://json.doube.eu.org/logo/金鹰卡通.png" group-title="湖南频道",湖南金鹰卡通
+http://192.168.0.66:50001/5000000006000040024/bestzb/index.m3u8$4M540_百视通
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://json.doube.eu.org/logo/哈哈炫动.png" group-title="卫视频道",上海哈哈炫动
+http://192.168.0.66:50001/5000000005000031641/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://json.doube.eu.org/logo/黑莓动画.png" group-title="卫视频道",黑莓动画
+http://192.168.0.66:50001/1000000004000021734/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",少儿动漫
+http://192.168.0.66:50001/8145334647720731271/wasusyt/index.m3u8$2.5M720_华数
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://json.doube.eu.org/logo/动漫秀场.png" group-title="SiTV频道",SiTV动漫秀场
+http://192.168.0.66:50001/5000000002000023636/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://json.doube.eu.org/logo/卡酷少儿.png" group-title="卫视频道",北京卡酷少儿
+http://192.168.0.66:50001/7851974109718180595/bestzb/index.m3u8$6.8M1080_百视通
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://json.doube.eu.org/logo/嘉佳卡通.png" group-title="卫视频道",广东嘉佳卡通
+http://192.168.0.66:50001/1000000002000025964/ystenlive/index.m3u8$4M576_易视腾
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://json.doube.eu.org/logo/金鹰卡通.png" group-title="卫视频道",湖南金鹰卡通
+http://192.168.0.66:50001/1000000002000016601/ystenlive/index.m3u8$4M576_易视腾
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://json.doube.eu.org/logo/优漫卡通.png" group-title="卫视频道",江苏优漫卡通
+http://192.168.0.66:50001/1000000002000010063/ystenlive/index.m3u8$4M576_易视腾
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://json.doube.eu.org/logo/金色学堂.png" group-title="SiTV频道",SiTV金色学堂
+http://192.168.0.66:50001/5000000010000026105/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="iHOT爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://json.doube.eu.org/logo/iHOT爱动漫.png" group-title="iHOT频道",爱动漫
+http://192.168.0.66:50001/6000000006000280630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",青春动漫
+http://192.168.0.66:50001/5000000011000288008/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",宝宝动画
+http://192.168.0.66:50001/5000000011000288002/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",百变课堂
+http://192.168.0.66:50001/5000000011000288001/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="iHOT爱幼教" tvg-name="iHOT爱幼教" tvg-logo="https://json.doube.eu.org/logo/iHOT爱幼教.png" group-title="iHOT频道",爱幼教
+http://192.168.0.66:50001/6000000006000180630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://json.doube.eu.org/logo/iHOT爱玩具.png" group-title="iHOT频道",爱玩具
+http://192.168.0.66:50001/6000000006000220630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="上海东方影视" tvg-name="上海东方影视" tvg-logo="https://json.doube.eu.org/logo/上海东方影视.png" group-title="卫视频道",上海东方影视
+http://192.168.0.66:50001/5000000010000032212/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",炫动3D
+http://192.168.0.66:50001/6000000003000000558/wasusyt/index.m3u8$2.5M720_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",浙江教科影视
+http://192.168.0.66:50001/2000000004000000001/hnbblive/index.m3u8$1.8M576_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",高清娱乐
+http://192.168.0.66:50001/2000000004000000013/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://json.doube.eu.org/logo/黑莓电影.png" group-title="卫视频道",黑莓电影
+http://192.168.0.66:50001/2000000003000000001/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="卫视频道",华数服务
+http://192.168.0.66:50001/2000000004000000025/hnbblive/index.m3u8$4M720_湖南bblive
+#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://json.doube.eu.org/logo/精彩影视.png" group-title="卫视频道",精彩影视
+http://192.168.0.66:50001/2000000004000000063/hnbblive/index.m3u8$7.2M1080_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT频道",Hot风尚音乐
+http://192.168.0.66:50001/2000000004000000004/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT频道",Hot精品剧场
+http://192.168.0.66:50001/2000000004000000002/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT频道",Hot欧美影院
+http://192.168.0.66:50001/2000000004000000005/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="HOT频道",Hot亚洲影院
+http://192.168.0.66:50001/2000000004000000006/hnbblive/index.m3u8$2.5M720_湖南bblive
+#EXTINF:-1 tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧" tvg-logo="https://json.doube.eu.org/logo/NewTV爱情喜剧.png" group-title="NewTV频道",NewTV爱情喜剧
+http://192.168.0.66:50001/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧" tvg-logo="https://json.doube.eu.org/logo/NewTV超级电视剧.png" group-title="NewTV频道",NewTV超级电视剧
+http://192.168.0.66:50001/1000000001000008139/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV超级电影" tvg-name="NewTV超级电影" tvg-logo="https://json.doube.eu.org/logo/NewTV超级电影.png" group-title="NewTV频道",NewTV超级电影
+http://192.168.0.66:50001/1000000001000012884/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV超级体育" tvg-name="NewTV超级体育" tvg-logo="https://json.doube.eu.org/logo/NewTV超级体育.png" group-title="NewTV频道",NewTV超级体育
+http://192.168.0.66:50001/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺" tvg-logo="https://json.doube.eu.org/logo/NewTV超级综艺.png" group-title="NewTV频道",NewTV超级综艺
+http://192.168.0.66:50001/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆" tvg-logo="https://json.doube.eu.org/logo/NewTV潮妈辣婆.png" group-title="NewTV频道",NewTV潮妈辣婆
+http://192.168.0.66:50001/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧" tvg-logo="https://json.doube.eu.org/logo/NewTV东北热剧.png" group-title="NewTV频道",NewTV东北剧场
+http://192.168.0.66:50001/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://json.doube.eu.org/logo/NewTV动作电影.png" group-title="NewTV频道",NewTV动作电影
+http://192.168.0.66:50001/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场" tvg-logo="https://json.doube.eu.org/logo/NewTV古装剧场.png" group-title="NewTV频道",NewTV古装剧场
+http://192.168.0.66:50001/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV欢乐剧场" tvg-name="NewTV欢乐剧场" tvg-logo="https://json.doube.eu.org/logo/NewTV欢乐剧场.png" group-title="NewTV频道",NewTV欢乐剧场
+http://192.168.0.66:50001/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV家庭剧场" tvg-name="NewTV家庭剧场" tvg-logo="https://json.doube.eu.org/logo/NewTV家庭剧场.png" group-title="NewTV频道",NewTV家庭剧场
+http://192.168.0.66:50001/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺" tvg-logo="https://json.doube.eu.org/logo/NewTV金牌综艺.png" group-title="NewTV频道",NewTV金牌综艺
+http://192.168.0.66:50001/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://json.doube.eu.org/logo/NewTV惊悚悬疑.png" group-title="NewTV频道",NewTV惊悚悬疑
+http://192.168.0.66:50001/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧" tvg-logo="https://json.doube.eu.org/logo/NewTV精品大剧.png" group-title="NewTV频道",NewTV精品大剧
+http://192.168.0.66:50001/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录" tvg-logo="https://json.doube.eu.org/logo/NewTV精品纪录.png" group-title="NewTV频道",NewTV精品纪录
+http://192.168.0.66:50001/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV精品萌宠" tvg-name="NewTV精品萌宠" tvg-logo="https://json.doube.eu.org/logo/NewTV精品萌宠.png" group-title="NewTV频道",NewTV精品萌宠
+http://192.168.0.66:50001/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV精品体育" tvg-name="NewTV精品体育" tvg-logo="https://json.doube.eu.org/logo/NewTV精品体育.png" group-title="NewTV频道",NewTV精品体育
+http://192.168.0.66:50001/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV" tvg-name="NewTV" tvg-logo="https://json.doube.eu.org/logo/NewTV.png" group-title="NewTV频道",NewTV精品综合
+http://192.168.0.66:50001/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场" tvg-logo="https://json.doube.eu.org/logo/NewTV军旅剧场.png" group-title="NewTV频道",NewTV军旅剧场
+http://192.168.0.66:50001/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV军事评论" tvg-name="NewTV军事评论" tvg-logo="https://json.doube.eu.org/logo/NewTV军事评论.png" group-title="NewTV频道",NewTV军事评论
+http://192.168.0.66:50001/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV魅力潇湘" tvg-name="NewTV魅力潇湘" tvg-logo="https://json.doube.eu.org/logo/NewTV魅力潇湘.png" group-title="NewTV频道",NewTV魅力潇湘
+http://192.168.0.66:50001/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV明星大片" tvg-name="NewTV明星大片" tvg-logo="https://json.doube.eu.org/logo/NewTV明星大片.png" group-title="NewTV频道",NewTV明星大片
+http://192.168.0.66:50001/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV农业致富" tvg-name="NewTV农业致富" tvg-logo="https://json.doube.eu.org/logo/NewTV农业致富.png" group-title="NewTV频道",NewTV农业致富
+http://192.168.0.66:50001/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV武搏世界" tvg-name="NewTV武搏世界" tvg-logo="https://json.doube.eu.org/logo/NewTV武搏世界.png" group-title="NewTV频道",NewTV武博世界
+http://192.168.0.66:50001/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV炫舞未来" tvg-name="NewTV炫舞未来" tvg-logo="https://json.doube.eu.org/logo/NewTV炫舞未来.png" group-title="NewTV频道",NewTV炫舞未来
+http://192.168.0.66:50001/1000000001000000515/ystenlive/index.m3u8$4M1080_易视腾
+#EXTINF:-1 tvg-id="NewTV怡伴健康" tvg-name="NewTV怡伴健康" tvg-logo="https://json.doube.eu.org/logo/NewTV怡伴健康.png" group-title="NewTV频道",NewTV怡伴健康
+http://192.168.0.66:50001/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫" tvg-logo="https://json.doube.eu.org/logo/NewTV中国功夫.png" group-title="NewTV频道",NewTV中国功夫
+http://192.168.0.66:50001/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://json.doube.eu.org/logo/都市剧场.png" group-title="SiTV频道",SiTV都市剧场
+http://192.168.0.66:50001/5000000002000004412/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://json.doube.eu.org/logo/法治天地.png" group-title="SiTV频道",SiTV法治天地
+http://192.168.0.66:50001/9001547084732463424/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://json.doube.eu.org/logo/欢笑剧场.png" group-title="SiTV频道",SiTV欢笑剧场
+http://192.168.0.66:50001/5000000002000009455/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://json.doube.eu.org/logo/劲爆体育.png" group-title="SiTV频道",SiTV劲爆体育
+http://192.168.0.66:50001/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://json.doube.eu.org/logo/乐游.png" group-title="SiTV频道",SiTV乐游
+http://192.168.0.66:50001/5000000006000040025/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://json.doube.eu.org/logo/魅力足球.png" group-title="SiTV频道",SiTV魅力足球
+http://192.168.0.66:50001/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://json.doube.eu.org/logo/七彩戏剧.png" group-title="SiTV频道",SiTV七彩戏剧
+http://192.168.0.66:50001/5000000011000031116/bestzb/index.m3u8$7M1080_百视通
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://json.doube.eu.org/logo/生活时尚.png" group-title="SiTV频道",SiTV生活时尚
+http://192.168.0.66:50001/5000000002000019634/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://json.doube.eu.org/logo/游戏风云.png" group-title="SiTV频道",SiTV游戏风云
+http://192.168.0.66:50001/5000000002000027005/bestzb/index.m3u8$4M1080_百视通
+#EXTINF:-1 tvg-id="iHOT爱谍战" tvg-name="iHOT爱谍战" tvg-logo="https://json.doube.eu.org/logo/iHOT爱谍战.png" group-title="iHOT频道",爱谍战
+http://192.168.0.66:50001/6000000006000070630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱都市" tvg-name="iHOT爱都市" tvg-logo="https://json.doube.eu.org/logo/iHOT爱都市.png" group-title="iHOT频道",爱都市
+http://192.168.0.66:50001/6000000006000080630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱怀旧" tvg-name="iHOT爱怀旧" tvg-logo="https://json.doube.eu.org/logo/iHOT爱怀旧.png" group-title="iHOT频道",爱怀旧
+http://192.168.0.66:50001/6000000006000260630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱经典" tvg-name="iHOT爱经典" tvg-logo="https://json.doube.eu.org/logo/iHOT爱经典.png" group-title="iHOT频道",爱经典
+http://192.168.0.66:50001/6000000006000060630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱科幻" tvg-name="iHOT爱科幻" tvg-logo="https://json.doube.eu.org/logo/iHOT爱科幻.png" group-title="iHOT频道",爱科幻
+http://192.168.0.66:50001/6000000006000020630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱科学" tvg-name="iHOT爱科学" tvg-logo="https://json.doube.eu.org/logo/iHOT爱科学.png" group-title="iHOT频道",爱科学
+http://192.168.0.66:50001/6000000006000160630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱浪漫" tvg-name="iHOT爱浪漫" tvg-logo="https://json.doube.eu.org/logo/iHOT爱浪漫.png" group-title="iHOT频道",爱浪漫
+http://192.168.0.66:50001/6000000006000040630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱历史" tvg-name="iHOT爱历史" tvg-logo="https://json.doube.eu.org/logo/iHOT爱历史.png" group-title="iHOT频道",爱历史
+http://192.168.0.66:50001/6000000006000150630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱旅行" tvg-name="iHOT爱旅行" tvg-logo="https://json.doube.eu.org/logo/iHOT爱旅行.png" group-title="iHOT频道",爱旅行
+http://192.168.0.66:50001/6000000006000250630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱奇谈" tvg-name="iHOT爱奇谈" tvg-logo="https://json.doube.eu.org/logo/iHOT爱奇谈.png" group-title="iHOT频道",爱奇谈
+http://192.168.0.66:50001/6000000006000270630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱青春" tvg-name="iHOT爱青春" tvg-logo="https://json.doube.eu.org/logo/iHOT爱青春.png" group-title="iHOT频道",爱青春
+http://192.168.0.66:50001/6000000006000100630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱赛车" tvg-name="iHOT爱赛车" tvg-logo="https://json.doube.eu.org/logo/iHOT爱赛车.png" group-title="iHOT频道",爱赛车
+http://192.168.0.66:50001/6000000006000240630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱体育" tvg-name="iHOT爱体育" tvg-logo="https://json.doube.eu.org/logo/iHOT爱体育.png" group-title="iHOT频道",爱体育
+http://192.168.0.66:50001/6000000006000290630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱喜剧" tvg-name="iHOT爱喜剧" tvg-logo="https://json.doube.eu.org/logo/iHOT爱喜剧.png" group-title="iHOT频道",爱喜剧
+http://192.168.0.66:50001/6000000006000010630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱悬疑" tvg-name="iHOT爱悬疑" tvg-logo="https://json.doube.eu.org/logo/iHOT爱悬疑.png" group-title="iHOT频道",爱悬疑
+http://192.168.0.66:50001/6000000006000050630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="iHOT爱院线" tvg-name="iHOT爱院线" tvg-logo="https://json.doube.eu.org/logo/iHOT爱院线.png" group-title="iHOT频道",爱院线
+http://192.168.0.66:50001/6000000006000030630/wasusyt/index.m3u8$7.2M1080_华数
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",华语影院
+http://192.168.0.66:50001/5000000011000288005/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",星光影院
+http://192.168.0.66:50001/5000000011000288013/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",全球大片
+http://192.168.0.66:50001/5000000011000288009/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",热门剧场
+http://192.168.0.66:50001/5000000011000288010/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",谍战剧场
+http://192.168.0.66:50001/5000000011000288004/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",戏曲精选
+http://192.168.0.66:50001/5000000011000288012/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",热门综艺
+http://192.168.0.66:50001/5000000011000288011/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",健康养生
+http://192.168.0.66:50001/5000000011000288006/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",看天下精选
+http://192.168.0.66:50001/5000000011000288007/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://json.doube.eu.org/logo/IPTV.png" group-title="百视通频道",电竞天堂
+http://192.168.0.66:50001/5000000011000288003/bestzb/index.m3u8
